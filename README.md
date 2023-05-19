@@ -15,5 +15,5 @@
 ### Heart Care App ♥♥
 <img src="https://github.com/Rohansorathiya/Machine-Learning-Model-for-CVD-prediction/blob/main/app.jpg" >
 
-### Developers 💙💙👨‍💻👨‍💻
+### Developer💙💙👨‍💻👨‍💻
 https://github.com/Rohansorathiya
