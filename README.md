@@ -11,9 +11,5 @@
 
 <img src="https://github.com/Rohansorathiya/Machine-Learning-Model-for-CVD-prediction/blob/main/Neural%20Network.jpg" width="800" height="600" style="align: center;">
 
-
-### Heart Care App ♥♥
-<img src="https://github.com/Rohansorathiya/Machine-Learning-Model-for-CVD-prediction/blob/main/app.jpg" >
-
 ### Developer💙💙👨‍💻👨‍💻
 https://github.com/Rohansorathiya
